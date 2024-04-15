@@ -9,7 +9,7 @@ $(window).on('load', function(){
 				$(this).delay(3300).addClass('scroll');
 			}
 		});
-	}); // ローディングテキストを1.2秒（1200ms）待機してからフェードアウト
+	}); 
 });
 
 $(window).scroll(function (){
